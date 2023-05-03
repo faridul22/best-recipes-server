@@ -1,7 +1,7 @@
 [
     {
         "id": 1,
-        "chefPicture": "https://example.com/chef1.jpg",
+        "chefPicture": "https://i.ibb.co/XSbVprQ/chef-6.webp",
         "chefName": "Martin Yan",
         "description": "Li Ming is a renowned Chinese chef who specializes in Sichuan cuisine. He has over 20 years of experience in the culinary industry and has won numerous awards for his dishes.",
         "likes": 1000,
@@ -46,7 +46,7 @@
     },
     {
         "id": 2,
-        "chefPicture": "https://example.com/chef2.jpg",
+        "chefPicture": "https://i.ibb.co/Y73LvhR/chef-1.jpg",
         "chefName": "Chen Wei",
         "description": "Chen Wei is a master of Cantonese cuisine and is known for his innovative twists on traditional dishes. He has been cooking for over 30 years and has trained many successful chefs.",
         "likes": 1500,
@@ -91,7 +91,7 @@
     },
     {
         "id": 3,
-        "chefPicture": "https://example.com/chef3.jpg",
+        "chefPicture": "https://i.ibb.co/fNsByHQ/chef-7.webp",
         "chefName": "Zhang Jie",
         "description": "Zhang Jie is a chef from Hunan who has a passion for spicy food. He has been featured on many cooking shows and has written several cookbooks.",
         "likes": 1200,
@@ -136,7 +136,7 @@
     },
     {
         "id": 4,
-        "chefPicture": "https://example.com/chef4.jpg",
+        "chefPicture": "https://i.ibb.co/Xxtfb8P/chef-3.webp",
         "chefName": "Wang Xia",
         "description": "Wang Xia is a chef from Shanghai who specializes in Shanghainese cuisine. She has over 25 years of experience and has worked in top restaurants around the world.",
         "likes": 800,
@@ -181,7 +181,7 @@
     },
     {
         "id": 5,
-        "chefPicture": "https://example.com/chef5.jpg",
+        "chefPicture": "https://i.ibb.co/Bnrg3yt/chef-2.jpg",
         "chefName": "Liu Hong",
         "description": "Liu Hong is a chef from Beijing who is known for his mastery of Peking duck. He has been cooking for over 15 years and has won several awards for his dishes.",
         "likes": 900,
@@ -226,7 +226,7 @@
     },
     {
         "id": 6,
-        "chefPicture": "https://example.com/chef6.jpg",
+        "chefPicture": "https://i.ibb.co/ZBXbNPD/chef-8.webp",
         "chefName": "Yang Wei",
         "description": "Yang Wei is a chef from Sichuan who is passionate about using local ingredients in his cooking. He has over 10 years of experience and has won several cooking competitions.",
         "likes": 700,
