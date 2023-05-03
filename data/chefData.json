@@ -1,0 +1,272 @@
+[
+    {
+        "id": 1,
+        "chefPicture": "https://example.com/chef1.jpg",
+        "chefName": "Martin Yan",
+        "description": "Li Ming is a renowned Chinese chef who specializes in Sichuan cuisine. He has over 20 years of experience in the culinary industry and has won numerous awards for his dishes.",
+        "likes": 1000,
+        "rating": 4.5,
+        "numRecipes": 50,
+        "yearsExperience": 20,
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken",
+                    "peanuts",
+                    "dried chili peppers",
+                    "Sichuan peppercorns",
+                    "garlic"
+                ],
+                "method": "1. Cut the chicken into small pieces and marinate in soy sauce, Shaoxing wine, and cornstarch for 30 minutes. 2. Stir-fry the chicken in a wok with oil until cooked through. 3. Add the peanuts, dried chili peppers, Sichuan peppercorns, and garlic and stir-fry for another minute. 4. Serve hot with rice."
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "doubanjiang (fermented bean paste)",
+                    "Sichuan peppercorns",
+                    "green onions"
+                ],
+                "method": "1. Brown the ground pork in a wok with oil. 2. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 3. Add the tofu and some water, then simmer for 5 minutes. 4. Garnish with chopped green onions and serve hot with rice."
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "ground pork",
+                    "noodles",
+                    "Sichuan peppercorns",
+                    "doubanjiang (fermented bean paste)",
+                    "green onions"
+                ],
+                "method": "1. Cook the noodles according to package instructions. 2. Brown the ground pork in a wok with oil. 3. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 4. Toss the noodles with the pork sauce and garnish with chopped green onions."
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "chefPicture": "https://example.com/chef2.jpg",
+        "chefName": "Chen Wei",
+        "description": "Chen Wei is a master of Cantonese cuisine and is known for his innovative twists on traditional dishes. He has been cooking for over 30 years and has trained many successful chefs.",
+        "likes": 1500,
+        "rating": 5,
+        "numRecipes": 70,
+        "yearsExperience": 30,
+        "recipes": [
+            {
+                "name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "fish",
+                    "ginger",
+                    "scallions",
+                    "soy sauce",
+                    "Shaoxing wine"
+                ],
+                "method": "1. Clean and scale the fish, then place on a plate. 2. Sprinkle with sliced ginger and scallions. 3. Steam the fish for 10-15 minutes, depending on the size. 4. Drizzle with soy sauce and Shaoxing wine before serving."
+            },
+            {
+                "name": "Stir-fried Clams with Black Bean Sauce",
+                "ingredients": [
+                    "clams",
+                    "black bean sauce",
+                    "garlic",
+                    "ginger",
+                    "green onions"
+                ],
+                "method": "1. Soak the clams in water for at least 30 minutes to remove sand. 2. Stir-fry the garlic and ginger in a wok with oil until fragrant. 3. Add the clams and black bean sauce and stir-fry for 2-3 minutes, until the clams open. 4. Garnish with chopped green onions before serving."
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "ground pork",
+                    "noodles",
+                    "Sichuan peppercorns",
+                    "doubanjiang (fermented bean paste)",
+                    "green onions"
+                ],
+                "method": "1. Cook the noodles according to package instructions. 2. Brown the ground pork in a wok with oil. 3. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 4. Toss the noodles with the pork sauce and garnish with chopped green onions."
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "chefPicture": "https://example.com/chef3.jpg",
+        "chefName": "Zhang Jie",
+        "description": "Zhang Jie is a chef from Hunan who has a passion for spicy food. He has been featured on many cooking shows and has written several cookbooks.",
+        "likes": 1200,
+        "rating": 3.5,
+        "numRecipes": 40,
+        "yearsExperience": 15,
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken",
+                    "peanuts",
+                    "dried chili peppers",
+                    "Sichuan peppercorns",
+                    "garlic"
+                ],
+                "method": "1. Cut the chicken into small pieces and marinate in soy sauce, Shaoxing wine, and cornstarch for 30 minutes. 2. Stir-fry the chicken in a wok with oil until cooked through. 3. Add the peanuts, dried chili peppers, Sichuan peppercorns, and garlic and stir-fry for another minute. 4. Serve hot with rice."
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "doubanjiang (fermented bean paste)",
+                    "Sichuan peppercorns",
+                    "green onions"
+                ],
+                "method": "1. Brown the ground pork in a wok with oil. 2. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 3. Add the tofu and some water, then simmer for 5 minutes. 4. Garnish with chopped green onions and serve hot with rice."
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "ground pork",
+                    "noodles",
+                    "Sichuan peppercorns",
+                    "doubanjiang (fermented bean paste)",
+                    "green onions"
+                ],
+                "method": "1. Cook the noodles according to package instructions. 2. Brown the ground pork in a wok with oil. 3. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 4. Toss the noodles with the pork sauce and garnish with chopped green onions."
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "chefPicture": "https://example.com/chef4.jpg",
+        "chefName": "Wang Xia",
+        "description": "Wang Xia is a chef from Shanghai who specializes in Shanghainese cuisine. She has over 25 years of experience and has worked in top restaurants around the world.",
+        "likes": 800,
+        "rating": 4.2,
+        "numRecipes": 60,
+        "yearsExperience": 25,
+        "recipes": [
+            {
+                "name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "fish",
+                    "ginger",
+                    "scallions",
+                    "soy sauce",
+                    "Shaoxing wine"
+                ],
+                "method": "1. Clean and scale the fish, then place on a plate. 2. Sprinkle with sliced ginger and scallions. 3. Steam the fish for 10-15 minutes, depending on the size. 4. Drizzle with soy sauce and Shaoxing wine before serving."
+            },
+            {
+                "name": "Stir-fried Clams with Black Bean Sauce",
+                "ingredients": [
+                    "clams",
+                    "black bean sauce",
+                    "garlic",
+                    "ginger",
+                    "green onions"
+                ],
+                "method": "1. Soak the clams in water for at least 30 minutes to remove sand. 2. Stir-fry the garlic and ginger in a wok with oil until fragrant. 3. Add the clams and black bean sauce and stir-fry for 2-3 minutes, until the clams open. 4. Garnish with chopped green onions before serving."
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "ground pork",
+                    "noodles",
+                    "Sichuan peppercorns",
+                    "doubanjiang (fermented bean paste)",
+                    "green onions"
+                ],
+                "method": "1. Cook the noodles according to package instructions. 2. Brown the ground pork in a wok with oil. 3. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 4. Toss the noodles with the pork sauce and garnish with chopped green onions."
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "chefPicture": "https://example.com/chef5.jpg",
+        "chefName": "Liu Hong",
+        "description": "Liu Hong is a chef from Beijing who is known for his mastery of Peking duck. He has been cooking for over 15 years and has won several awards for his dishes.",
+        "likes": 900,
+        "rating": 4.1,
+        "numRecipes": 30,
+        "yearsExperience": 15,
+        "recipes": [
+            {
+                "name": "Kung Pao Chicken",
+                "ingredients": [
+                    "chicken",
+                    "peanuts",
+                    "dried chili peppers",
+                    "Sichuan peppercorns",
+                    "garlic"
+                ],
+                "method": "1. Cut the chicken into small pieces and marinate in soy sauce, Shaoxing wine, and cornstarch for 30 minutes. 2. Stir-fry the chicken in a wok with oil until cooked through. 3. Add the peanuts, dried chili peppers, Sichuan peppercorns, and garlic and stir-fry for another minute. 4. Serve hot with rice."
+            },
+            {
+                "name": "Mapo Tofu",
+                "ingredients": [
+                    "tofu",
+                    "ground pork",
+                    "doubanjiang (fermented bean paste)",
+                    "Sichuan peppercorns",
+                    "green onions"
+                ],
+                "method": "1. Brown the ground pork in a wok with oil. 2. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 3. Add the tofu and some water, then simmer for 5 minutes. 4. Garnish with chopped green onions and serve hot with rice."
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "ground pork",
+                    "noodles",
+                    "Sichuan peppercorns",
+                    "doubanjiang (fermented bean paste)",
+                    "green onions"
+                ],
+                "method": "1. Cook the noodles according to package instructions. 2. Brown the ground pork in a wok with oil. 3. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 4. Toss the noodles with the pork sauce and garnish with chopped green onions."
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "chefPicture": "https://example.com/chef6.jpg",
+        "chefName": "Yang Wei",
+        "description": "Yang Wei is a chef from Sichuan who is passionate about using local ingredients in his cooking. He has over 10 years of experience and has won several cooking competitions.",
+        "likes": 700,
+        "rating": 3.5,
+        "numRecipes": 20,
+        "yearsExperience": 10,
+        "recipes": [
+            {
+                "name": "Steamed Fish with Ginger and Scallions",
+                "ingredients": [
+                    "fish",
+                    "ginger",
+                    "scallions",
+                    "soy sauce",
+                    "Shaoxing wine"
+                ],
+                "method": "1. Clean and scale the fish, then place on a plate. 2. Sprinkle with sliced ginger and scallions. 3. Steam the fish for 10-15 minutes, depending on the size. 4. Drizzle with soy sauce and Shaoxing wine before serving."
+            },
+            {
+                "name": "Stir-fried Clams with Black Bean Sauce",
+                "ingredients": [
+                    "clams",
+                    "black bean sauce",
+                    "garlic",
+                    "ginger",
+                    "green onions"
+                ],
+                "method": "1. Soak the clams in water for at least 30 minutes to remove sand. 2. Stir-fry the garlic and ginger in a wok with oil until fragrant. 3. Add the clams and black bean sauce and stir-fry for 2-3 minutes, until the clams open. 4. Garnish with chopped green onions before serving."
+            },
+            {
+                "name": "Dan Dan Noodles",
+                "ingredients": [
+                    "ground pork",
+                    "noodles",
+                    "Sichuan peppercorns",
+                    "doubanjiang (fermented bean paste)",
+                    "green onions"
+                ],
+                "method": "1. Cook the noodles according to package instructions. 2. Brown the ground pork in a wok with oil. 3. Add the doubanjiang and Sichuan peppercorns and stir-fry for 30 seconds. 4. Toss the noodles with the pork sauce and garnish with chopped green onions."
+            }
+        ]
+    }
+]
