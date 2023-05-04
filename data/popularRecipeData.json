@@ -1,0 +1,20 @@
+[
+    {
+        "recipe_img": "https://example.com/recipe1.jpg",
+        "recipe_name": "Spaghetti Bolognese",
+        "making_time": "30 minutes",
+        "price": "$10.99"
+    },
+    {
+        "recipe_img": "https://example.com/recipe2.jpg",
+        "recipe_name": "Chicken Tikka Masala",
+        "making_time": "45 minutes",
+        "price": "$12.99"
+    },
+    {
+        "recipe_img": "https://example.com/recipe3.jpg",
+        "recipe_name": "Beef Stroganoff",
+        "making_time": "60 minutes",
+        "price": "$15.99"
+    }
+]
