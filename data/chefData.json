@@ -5,12 +5,12 @@
         "chefName": "Martin Yan",
         "description": "Li Ming is a renowned Chinese chef who specializes in Sichuan cuisine. He has over 20 years of experience in the culinary industry and has won numerous awards for his dishes.",
         "likes": 1000,
-        "rating": 4.5,
         "numRecipes": 50,
         "yearsExperience": 20,
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                "rating": 4.5,
                 "ingredients": [
                     "chicken",
                     "peanuts",
@@ -22,6 +22,7 @@
             },
             {
                 "name": "Mapo Tofu",
+                "rating": 4.2,
                 "ingredients": [
                     "tofu",
                     "ground pork",
@@ -33,6 +34,7 @@
             },
             {
                 "name": "Dan Dan Noodles",
+                "rating": 3.5,
                 "ingredients": [
                     "ground pork",
                     "noodles",
@@ -56,6 +58,7 @@
         "recipes": [
             {
                 "name": "Steamed Fish with Ginger and Scallions",
+                "rating": 4.5,
                 "ingredients": [
                     "fish",
                     "ginger",
@@ -67,6 +70,7 @@
             },
             {
                 "name": "Stir-fried Clams with Black Bean Sauce",
+                "rating": 4.2,
                 "ingredients": [
                     "clams",
                     "black bean sauce",
@@ -78,6 +82,7 @@
             },
             {
                 "name": "Dan Dan Noodles",
+                "rating": 3.5,
                 "ingredients": [
                     "ground pork",
                     "noodles",
@@ -101,6 +106,7 @@
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                "rating": 4.1,
                 "ingredients": [
                     "chicken",
                     "peanuts",
@@ -112,6 +118,7 @@
             },
             {
                 "name": "Mapo Tofu",
+                "rating": 4.5,
                 "ingredients": [
                     "tofu",
                     "ground pork",
@@ -123,6 +130,7 @@
             },
             {
                 "name": "Dan Dan Noodles",
+                "rating": 4.2,
                 "ingredients": [
                     "ground pork",
                     "noodles",
@@ -146,6 +154,7 @@
         "recipes": [
             {
                 "name": "Steamed Fish with Ginger and Scallions",
+                "rating": 3.5,
                 "ingredients": [
                     "fish",
                     "ginger",
@@ -157,6 +166,7 @@
             },
             {
                 "name": "Stir-fried Clams with Black Bean Sauce",
+                "rating": 4.5,
                 "ingredients": [
                     "clams",
                     "black bean sauce",
@@ -168,6 +178,7 @@
             },
             {
                 "name": "Dan Dan Noodles",
+                "rating": 4.1,
                 "ingredients": [
                     "ground pork",
                     "noodles",
@@ -191,6 +202,7 @@
         "recipes": [
             {
                 "name": "Kung Pao Chicken",
+                "rating": 4.5,
                 "ingredients": [
                     "chicken",
                     "peanuts",
@@ -202,6 +214,7 @@
             },
             {
                 "name": "Mapo Tofu",
+                "rating": 4.3,
                 "ingredients": [
                     "tofu",
                     "ground pork",
@@ -213,6 +226,7 @@
             },
             {
                 "name": "Dan Dan Noodles",
+                "rating": 4.1,
                 "ingredients": [
                     "ground pork",
                     "noodles",
@@ -236,6 +250,7 @@
         "recipes": [
             {
                 "name": "Steamed Fish with Ginger and Scallions",
+                "rating": 3.5,
                 "ingredients": [
                     "fish",
                     "ginger",
@@ -247,6 +262,7 @@
             },
             {
                 "name": "Stir-fried Clams with Black Bean Sauce",
+                "rating": 4.5,
                 "ingredients": [
                     "clams",
                     "black bean sauce",
@@ -258,6 +274,7 @@
             },
             {
                 "name": "Dan Dan Noodles",
+                "rating": 4.2,
                 "ingredients": [
                     "ground pork",
                     "noodles",
